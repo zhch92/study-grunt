@@ -1,0 +1,12 @@
+* {
+  padding-left: 1000px;
+}
+.text {
+  background: #000;
+}
+.text .test {
+  background: red;
+}
+.text .test li {
+  list-style: none;
+}
